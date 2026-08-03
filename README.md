@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
