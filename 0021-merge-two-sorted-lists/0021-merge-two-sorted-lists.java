@@ -16,18 +16,20 @@ class Solution {
         ListNode dummyNode = new ListNode(-1);
         ListNode temp = dummyNode;
 
-        while(t1 !=null && t2!=null){
-            if(t1.val<=t2.val){
-                temp.next=t1;
-                t1=t1.next;
+        while(t1!=null && t2!=null){
+            if(t1.val<t2.val){
+                temp.next = t1;
+                t1 = t1.next;
                 temp = temp.next;
                 temp.next = null;
-            }else{
-                temp.next = t2;
-                t2 = t2.next;
-                temp = temp.next;
-                temp.next = null;
+
             }
+            else{
+            temp.next = t2;
+            t2 = t2.next;
+            temp = temp.next;
+            temp.next = null;
+          }
         }
         if(t1!=null){
             temp.next = t1;
