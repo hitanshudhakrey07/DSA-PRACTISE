@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0739-daily-temperatures) |
@@ -39,16 +40,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
