@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2390-removing-stars-from-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0876-middle-of-the-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -72,9 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
