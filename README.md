@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0739-daily-temperatures) |
+| [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -83,5 +85,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
