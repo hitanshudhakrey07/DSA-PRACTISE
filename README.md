@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0680-valid-palindrome-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2390-removing-stars-from-a-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0344-reverse-string) |
