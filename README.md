@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3348-smallest-divisible-digit-product-ii) |
