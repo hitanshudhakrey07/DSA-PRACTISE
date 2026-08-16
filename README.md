@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0739-daily-temperatures) |
 | [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0680-valid-palindrome-ii) |
+| [2029-stone-game-ix](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,15 +120,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -150,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
