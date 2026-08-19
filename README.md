@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0739-daily-temperatures) |
 | [1051-height-checker](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0496-next-greater-element-i) |
+| [1386-cinema-seat-allocation](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0680-valid-palindrome-ii) |
+| [1386-cinema-seat-allocation](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1051-height-checker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
