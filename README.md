@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
