@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0503-next-greater-element-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/hitanshudhakrey07/DSA-PRACTISE/tree/master/0234-palindrome-linked-list) |
